@@ -16,3 +16,6 @@ if c % d == 0:
     print(d)
 else:
     print("Impossible")
+
+
+print("Выполнил Шакула Дмитрий Андреевич 090301-ПОВа-о24")
